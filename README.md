@@ -1,1 +1,1 @@
-# AyushAi
+# Ayush.Ai
